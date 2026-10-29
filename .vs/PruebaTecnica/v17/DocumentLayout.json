@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\source\\repos\\pruebatecnica\\pruebatecnica\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\source\\repos\\pruebatecnica\\pruebatecnica\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\source\\repos\\pruebatecnica\\pruebatecnica\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\source\\repos\\pruebatecnica\\pruebatecnica\\repositories\\mongodbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\repositories\\mongodbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\source\\repos\\pruebatecnica\\pruebatecnica\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\source\\repos\\pruebatecnica\\pruebatecnica\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\source\\repos\\pruebatecnica\\pruebatecnica\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\source\\repos\\pruebatecnica\\pruebatecnica\\repositories\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\repositories\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\source\\repos\\pruebatecnica\\pruebatecnica\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\source\\repos\\pruebatecnica\\pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08948465-0F12-4C43-AE41-8F9DAA0392E5}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "PruebaTecnica\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T16:48:23.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "PruebaTecnica\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T16:46:52.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Repositories\\Interfaces\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Repositories\\Interfaces\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Repositories\\Interfaces\\IClientRepository.cs",
+              "RelativeToolTip": "PruebaTecnica\\Repositories\\Interfaces\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T16:38:16.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "PruebaTecnica\\Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T16:37:50.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Entities\\Order.cs",
+              "RelativeToolTip": "PruebaTecnica\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T16:33:34.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Entities\\Product.cs",
+              "RelativeToolTip": "PruebaTecnica\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T16:32:26.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Entities\\Client.cs",
+              "RelativeToolTip": "PruebaTecnica\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T16:30:25.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnica\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
+              "RelativeToolTip": "PruebaTecnica\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-29T16:27:19.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Startup.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Startup.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Startup.cs",
+              "RelativeToolTip": "PruebaTecnica\\Startup.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T16:25:50.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoDBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Repositories\\MongoDBConnection.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Repositories\\MongoDBConnection.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaTecnica\\PruebaTecnica\\Repositories\\MongoDBConnection.cs",
+              "RelativeToolTip": "PruebaTecnica\\Repositories\\MongoDBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T16:19:12.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
